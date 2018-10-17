@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 9,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Version 1"
+    "string": "Version 2\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,7 +51,7 @@
     "x": 216,
     "y": 213
   },
-  "glyphBounds": "{{1, 17}, {285, 54}}",
+  "glyphBounds": "{{1, 17}, {297, 54}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,7 +59,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Version 1",
+  "name": "Version 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
